@@ -1,0 +1,5 @@
+apiVersion: v2
+name: drupal
+description: A minimal installation of Drupal
+type: application
+version: 0.1.0
